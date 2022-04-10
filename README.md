@@ -7,8 +7,7 @@
 
 ![selectLed](https://user-images.githubusercontent.com/43569659/162612060-c892fdca-50e2-4f2b-af0a-55ffb467c69f.png)
 
-
-![LedOff](https://user-images.githubusercontent.com/43569659/162612406-2a08ad39-4268-4267-9c36-5e14121803f4.jpg)
+![LedOff](https://user-images.githubusercontent.com/43569659/162612436-1fb63e4a-65ff-4bb6-aae0-2177bc40bc25.jpg)
 
 ![outputOn](https://user-images.githubusercontent.com/43569659/162612069-e4c40e47-d18a-49a1-8244-6ed36aaa3050.png)
 
