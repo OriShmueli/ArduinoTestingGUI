@@ -8,12 +8,11 @@
 ![selectLed](https://user-images.githubusercontent.com/43569659/162612060-c892fdca-50e2-4f2b-af0a-55ffb467c69f.png)
 
 
-
-![LedOff](https://user-images.githubusercontent.com/43569659/162612311-a3229a66-73f8-43e6-8f4f-5d51590c9aeb.jpg)
+![LedOff](https://user-images.githubusercontent.com/43569659/162612406-2a08ad39-4268-4267-9c36-5e14121803f4.jpg)
 
 ![outputOn](https://user-images.githubusercontent.com/43569659/162612069-e4c40e47-d18a-49a1-8244-6ed36aaa3050.png)
-![ledOn](https://user-images.githubusercontent.com/43569659/162612308-f9b59e80-432a-497f-9ae3-cc058937f3fa.jpg)
 
+![ledOn](https://user-images.githubusercontent.com/43569659/162612403-009d8443-2b45-4504-8df7-b3b57e1714a3.jpg)
 
 
 
